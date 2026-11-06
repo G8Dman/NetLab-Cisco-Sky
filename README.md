@@ -4,7 +4,7 @@
 
 Немного телекоммуникационного юмора над головой: солнце Cisco и фирменные облака для твоей лаборатории NetLab.
 
-**[Скачать готовый ZIP для Minecraft 1.21.1](NetLab-Cisco-Sky-1.21.1.zip)**
+**[Скачать готовый ZIP для Minecraft 1.21.1](https://raw.githubusercontent.com/G8Dman/NetLab-Cisco-Sky/main/NetLab-Cisco-Sky-1.21.1.zip)**
 
 ## Установка
 
